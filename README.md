@@ -1,4 +1,4 @@
-# JavaScript Reduce Lab
+u# JavaScript Reduce Lab
 
 ## Overview
 This lab will give you practice using a reduce function and iterating over different abstractions. 
